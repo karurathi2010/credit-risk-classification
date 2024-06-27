@@ -48,3 +48,13 @@ Here the overall accuracy is 0.99, which means 99% of the predictions made by th
 * For the 'high-risk loan' class, it maintains a good precision (87%) and recall (89%), with an F1-score of 0.88.
 
 In conclusion, based on this classification report, the logistic regression model predicts both healthy loans and high-risk loans quite well, with near-perfect performance for healthy loans and solid performance for high-risk loans.
+
+#### Recommendation:
+
+* According to this classification report, the logistic regression model appears to be highly effective for predicting both healthy loans and high-risk loans.
+
+* It demonstrates near-perfect performance for the 'healthy loan' class and solid performance for the 'high-risk loan' class, with high precision (87%), recall (89%), and an F1-score of 0.88.
+
+* Therefore, based on its overall high accuracy (99%) and robust performance metrics across both classes, I recommend using the logistic regression model for predicting loan classifications.
+
+* So in summary, based on the precision, recall, F1-score, and overall accuracy, the logistic regression model is recommended for use due to its robust performance in predicting both healthy and high-risk loans effectively.
